@@ -6,6 +6,7 @@ class Simple
         int b = 3;
 
         System.out.println(a + b);
+        System.out.println(a * b);
         System.out.println(a - b);
     }
 }

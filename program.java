@@ -8,5 +8,6 @@ class Simple
         System.out.println(a + b);
         System.out.println(a * b);
         System.out.println(a - b);
+        system.out.println(a / b);
     }
 }
